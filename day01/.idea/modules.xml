@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01.iml" filepath="$PROJECT_DIR$/day01.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/../day02/day02.iml" filepath="$PROJECT_DIR$/../day02/day02.iml" />
+>>>>>>> 9b8fee7 (first commit)
     </modules>
   </component>
 </project>
